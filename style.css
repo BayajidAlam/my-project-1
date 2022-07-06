@@ -1,0 +1,159 @@
+body{
+  margin: 0;
+
+ padding: 0;
+  
+}
+.container{
+  width: 73%;
+  text-align: center;
+  background-image:url(images/donation6.jpg);
+  height: 400px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.uppertext,a{
+  color: rgb(255, 255, 255);
+  padding: 90px;
+}
+h1{
+  font-size: 40px;
+  font-family: 'Oswald', sans-serif;
+}
+h3{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: aliceblue;
+}
+.anchor-button{
+  text-decoration: none;
+  background-color:rgba(255, 89, 89, 1);
+  padding: 10px;
+  font-size: 18px;
+  border-radius: 5px;
+}
+.ammount-taka{
+  display:inline-block ;
+  background-color: whitesmoke;
+  padding: 40px; 
+  justify-content: space-between;
+  border-radius: 4px;
+  margin: 5px;
+  
+}
+
+.other-ammount{
+
+  border-bottom: 2px solid rgba(218, 218, 218, 1);
+  position: relative;
+
+}
+.other-ammount{
+  font-size:16px;
+  margin-top: 5px;
+
+}
+.colored-box{
+ border: 2px solid rgba(255, 89, 89, 1);
+ color: rgba(255, 89, 89, 1);
+
+ .our-donateplan{
+   width: 73%;
+ }
+
+}
+.header{
+  margin: 0px;
+  padding-top: 10px;
+}.three-div{
+  display: flex;
+  width: 53%;
+  margin: auto;
+  padding: 30px;
+ 
+
+
+}
+.food{
+  float: left;
+  width: 33%;
+  background-color:rgba(238, 246, 247, 1);
+  text-align: center;
+  color: #fff;
+  margin-right: 10px;
+  
+}
+
+.shelter{
+  float:left; 
+  background:rgba(255, 239, 239, 1);
+  width: 33%;
+  
+  margin-right: 10px;
+ 
+}
+.Education{
+  float: left;
+    width: 33%;
+    background-color:rgba(255, 244, 214, 1);
+    text-align: center;
+    color: #fff;
+
+}
+.three-div h3{
+color: rgba(18, 18, 18, 1);
+margin-bottom: 0px;
+
+}
+.paragraph{
+  color:rgba(112, 112, 112, 1);
+}
+.footer-section{
+  background-color: rgba(11, 13, 23, 1);
+  width:63%;
+  margin: auto;
+  color:rgba(255, 89, 89, 1) ;
+}
+.footer-head{
+  color:rgba(255, 89, 89, 1) ;
+  margin-top: 0px;
+  padding-top: 15px;
+}
+.footer-paragraph{
+  color: rgba(217, 219, 225, 1);
+  padding-bottom: 15px;
+}
+.get-my-update{
+  width: 73%;
+  margin: auto;
+  padding: 40px;
+}
+.general-class{
+  width: 60%;
+margin: auto;
+}
+.div-box{
+  background-color:rgba(255, 244, 214, 1) ;
+  width: 40%;
+ 
+  padding: 30px;
+ 
+  margin: auto;
+ 
+
+} 
+#input{
+  background-color: rgba(255, 244, 214, 1);
+  border: 1px solid rgb(240, 142, 142);
+  color: black;
+  padding: 5px;
+  
+  
+}
+.button{
+  border: 1px solid rgb(240, 142, 142);
+  margin-left: 0px;
+  background-color: rgba(255, 89, 89, 1);
+  color:white;
+   padding: 5px;
+}
+

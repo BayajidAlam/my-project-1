@@ -73,13 +73,11 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .colored-box{
  border: 2px solid rgba(255, 89, 89, 1);
- color: rgba(255, 89, 89, 1);
+ color: rgba(255, 89, 89, 1);}
 
- .our-donateplan{
-   width: 73%;
- }
 
-}
+
+
 .header{
   margin: 0px;
   padding-top: 10px;

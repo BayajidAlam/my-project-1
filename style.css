@@ -12,9 +12,19 @@ body{
   background-repeat: no-repeat;
   background-position: center;
 }
+.Donate-now{
+  width: 73%;
+  margin: auto;
+ 
+;
+}
 .uppertext,a{
   color: rgb(255, 255, 255);
-  padding: 90px;
+  padding: 90px;}
+ 
+.taka{
+  width: 73%;
+  margin: auto;
 }
 h1{
   font-size: 40px;
@@ -30,6 +40,8 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding: 10px;
   font-size: 18px;
   border-radius: 5px;
+
+
 }
 .ammount-taka{
   display:inline-block ;
@@ -40,16 +52,23 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   margin: 5px;
   
 }
-
+.text-button{
+  width: 60%;
+  margin: auto;
+}
 .other-ammount{
-
+  width: 30%;
   border-bottom: 2px solid rgba(218, 218, 218, 1);
   position: relative;
+  margin: auto;
+  padding-bottom: 5px;
 
 }
 .other-ammount{
   font-size:16px;
-  margin-top: 5px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+
 
 }
 .colored-box{
@@ -66,7 +85,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding-top: 10px;
 }.three-div{
   display: flex;
-  width: 53%;
+  width: 60%;
   margin: auto;
   padding: 30px;
  
@@ -79,7 +98,9 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   background-color:rgba(238, 246, 247, 1);
   text-align: center;
   color: #fff;
-  margin-right: 10px;
+
+  padding: 10px;
+  margin-right: 0px;
   
 }
 
@@ -99,13 +120,28 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #fff;
 
 }
+.three-div{
+  margin: auto;
+  /* padding-bottom: 3px; */
+}
 .three-div h3{
-color: rgba(18, 18, 18, 1);
+/* color: rgba(18, 18, 18, 1);
 margin-bottom: 0px;
+width: 60%;
+text-align: center; */
+color: #000;
+
 
 }
+.new-div h3{
+ 
+  margin-top:100px ;
+}
 .paragraph{
+  width: 60%;
   color:rgba(112, 112, 112, 1);
+  margin: auto;
+
 }
 .footer-section{
   background-color: rgba(11, 13, 23, 1);
@@ -125,17 +161,18 @@ margin-bottom: 0px;
 .get-my-update{
   width: 73%;
   margin: auto;
-  padding: 40px;
+  padding: 30px;
 }
 .general-class{
   width: 60%;
 margin: auto;
+padding-bottom: 10px;
 }
 .div-box{
   background-color:rgba(255, 244, 214, 1) ;
-  width: 40%;
+  width: 50%;
  
-  padding: 30px;
+  padding: 40px;
  
   margin: auto;
  
@@ -156,4 +193,37 @@ margin: auto;
   color:white;
    padding: 5px;
 }
+.leader-pic{
+  width: 250px;
+  height: 400px;
+ 
 
+}
+.details{
+  display: inline-block;
+  justify-content: space-between;
+  width: 36.5%;
+}
+.details h3{
+  color: rgba(255, 89, 89, 1);
+  font-size: 30px;
+}
+.details p{
+  color: black;
+
+  ;
+}
+
+.leader-detail{
+  background-color: aqua;
+  width: 60%;
+  margin: auto;
+}
+.leader-pic{
+  margin-top:  18px;
+}
+.image{
+  float:left;
+  margin-left: 50px;
+  margin-top: 30px;
+}

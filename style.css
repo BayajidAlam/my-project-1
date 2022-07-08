@@ -161,10 +161,12 @@ color: #000;
   color:rgba(255, 89, 89, 1) ;
   margin-top: 0px;
   padding-top: 15px;
+  text-align: center;  
 }
 .footer-paragraph{
   color: rgba(217, 219, 225, 1);
   padding-bottom: 15px;
+  text-align: center;
 }
 .get-my-update{
   width: 73%;
@@ -178,7 +180,7 @@ padding-bottom: 10px;
 }
 .div-box{
   background-color:rgba(255, 244, 214, 1) ;
-  width: 50%;
+  width: 36.40%;
  
   padding: 40px;
  
@@ -203,10 +205,11 @@ padding-bottom: 10px;
 .details h3{
   color: rgba(255, 89, 89, 1);
   font-size: 30px;
+  text-align: center;
 }
 .details p{
   color: black;
-  width: 50%;
+
   font-size: 22px;
   
   text-align: center;
@@ -245,11 +248,12 @@ padding-bottom: 10px;
   
 }
 .button{
-  border: 1px solid rgb(240, 142, 142);
+  border: 1px solid rgba(255, 89, 89, 1);
   margin-left: 0px;
   background-color: rgba(255, 89, 89, 1);
   color:white;
-   padding: 5px;
+  padding: 5px;
+  
 }
 .leader h2{
   text-align: center;
